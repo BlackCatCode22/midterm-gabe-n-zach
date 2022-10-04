@@ -1,5 +1,7 @@
 Presentation and class code review on Oct 11.
 
+commit changes.
+
 Your midterm program will be  a collaboration of lab partners. You will present your program to your classmates on the presentation date and participate in the class code review by accepting all critiques without feedback. For example, a code review committee member says, "Good animal names, but your code was unreadable." and you and your partner say, "Thank you for your feedback."
 
 The following programming concepts will be demonstrated:
